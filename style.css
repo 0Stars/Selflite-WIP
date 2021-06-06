@@ -1,0 +1,64 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+h1
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+label
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+h3
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h4
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+p
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.body_background
+{ background-image: url('Voice Selfie App Background.png');
+    background-position: center;
+    background-size: cover;
+}
+
+button
+{
+    font-family: 'Ubuntu', sans-serif;
+    background-color:'rgb(194, 30, 85)';
+}
