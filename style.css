@@ -11,7 +11,7 @@
 #logo_img
 {
     width: 150px;
-    border-radius: 100px;
+    border-radius: 15px;
 }
 #textbox
 {
@@ -28,13 +28,6 @@ h2
     font-family: 'Ubuntu', sans-serif;
 }
 
-
-label
-{
-    font-family: 'Ubuntu', sans-serif;
-}
-
-
 h3
 {
     font-family: 'Ubuntu', sans-serif;
@@ -45,20 +38,27 @@ h4
     font-family: 'Ubuntu', sans-serif;
 }
 
+h5
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h6
+{
+    font-family: 'Ubuntu', sans-serif;
+}
 
 p
 {
     font-family: 'Ubuntu', sans-serif;
 }
 
-.body_background
-{ background-image: url('Voice Selfie App Background.png');
-    background-position: center;
-    background-size: cover;
-}
-
 button
 {
     font-family: 'Ubuntu', sans-serif;
-    background-color:'rgb(194, 30, 85)';
+}
+
+label
+{
+    font-family: 'Ubuntu', sans-serif;
 }
