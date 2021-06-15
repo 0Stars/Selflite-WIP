@@ -62,3 +62,8 @@ label
 {
     font-family: 'Ubuntu', sans-serif;
 }
+
+body
+{
+    background-image: url("Voice.png");
+}
